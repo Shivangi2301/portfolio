@@ -20,9 +20,9 @@ const Header = () => {
           <li>
             <a href="#skills">Skills</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#work">Work</a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact">Contact</a>
           </li>
