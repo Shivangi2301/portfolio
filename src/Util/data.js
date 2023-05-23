@@ -27,7 +27,7 @@ export const SOCIAL_LINKS = [
   {
     name: "Linkedin",
     icon: "fab fa-lg fa-linkedin-in",
-    link: "https://www.linkedin.com/in/shivangirajde/",
+    link: "https://www.linkedin.com/in/shivangi-rajde/",
   },
 ];
 
