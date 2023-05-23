@@ -11,7 +11,7 @@ import umbraco from "../img/umbraco.png";
 import webAPI from "../img/WebApi.png";
 import webServices from "../img/webServices.png";
 export const FULL_NAME = "Shivangi Rajde";
-export const RESUME_LINK = "https://Shivangi2301.github.io/resume.pdf";
+export const RESUME_LINK = "https://shivangi2301.github.io/portfolio/resume.pdf";
 export const FOOTER_TEXT = "Built by Shivangi";
 export const SOCIAL_LINKS = [
   {
