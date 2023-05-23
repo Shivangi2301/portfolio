@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3cd5a167.css",
+    "main.js": "/portfolio/static/js/main.bcc9573b.js",
+    "static/media/webServices.png": "/portfolio/static/media/webServices.b0a89c7f735c96c61afc.png",
+    "static/media/dp.svg": "/portfolio/static/media/dp.15af7485085a8ea47dcd548f945c9aaf.svg",
+    "static/media/WebApi.png": "/portfolio/static/media/WebApi.968578572287965a93cc.png",
+    "static/media/primereact-logo.png": "/portfolio/static/media/primereact-logo.d69bc9cbaa7bc8490308.png",
+    "static/media/kendo-react.svg": "/portfolio/static/media/kendo-react.d24a2892014db3b3522825bd92bd89de.svg",
+    "static/media/prefix-p-all.svg": "/portfolio/static/media/prefix-p-all.15826b4a75d8b5ac012ee2a817b2ef92.svg",
+    "index.html": "/portfolio/index.html",
+    "main.3cd5a167.css.map": "/portfolio/static/css/main.3cd5a167.css.map",
+    "main.bcc9573b.js.map": "/portfolio/static/js/main.bcc9573b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd5a167.css",
+    "static/js/main.bcc9573b.js"
+  ]
+}
