@@ -12,7 +12,7 @@ const Container = () => {
             <Landing />
             <About />
             <Skills />
-            <Work />
+            {/* <Work /> */}
             <Contact />
         </div>
     );
